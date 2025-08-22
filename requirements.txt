@@ -1,0 +1,32 @@
+# Streamlit for the UI
+streamlit>=1.25.0
+
+# LangChain core libraries
+langchain-core>=0.1.0
+langchain-community>=0.1.0
+
+# Ollama LLM support
+langchain-ollama>=0.0.8
+
+# PDF loader
+pdfplumber>=0.10.0
+
+# Text splitting utilities
+tiktoken>=0.4.0
+
+# Vector stores
+faiss-cpu>=1.7.4.post2
+
+# Python utilities
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Jupyter support
+notebook>=6.5.2
+ipython>=8.15.0
+
+# faiss 
+faiss-cpu
+
+# Optional: file path utilities
+python-dotenv>=1.0.0
